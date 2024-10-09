@@ -16,7 +16,7 @@ We aim to answer the following key questions using SQL:
 12. **Statewise Alliance Performance**: What is the total number of seats won by each party alliance (NDA, I.N.D.I.A., OTHER) in each state?
 13. **Highest EVM Votes**: Which candidate received the highest number of EVM votes in each constituency?
 14. **Runner-Up Analysis**: Identify the runner-up candidate in each constituency.
-15. **Odisha State Data**: For Odisha, analyze the total number of seats, candidates, parties, total votes (including EVM and postal), and breakdown of EVM and postal votes.    
+15. **Maharastra State Data**: For Maharastra, analyze the total number of seats, candidates, parties, total votes (including EVM and postal), and breakdown of EVM and postal votes.    
 ## 💻 Technologies Used
 - **SQL Server Management Studio (SSMS)**-  **SQL**
 ## 🔗 Useful Links
